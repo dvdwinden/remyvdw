@@ -1,0 +1,25 @@
+{
+  "name": "remyvdw",
+  "version": "1.0.0",
+  "description": "Remy van der Winden's personal website'",
+  "main": "index.js",
+  "scripts": {
+    "build": "NODE_ENV=production eleventy && npx tailwindcss -i ./src/css/style.css -o ./_site/css/style.css --minify",
+    "build:css": "npx tailwindcss -i ./src/css/style.css -o ./_site/css/style.css",
+    "start": "npm run dev",
+    "dev": "concurrently \"eleventy --serve\" \"npx tailwindcss -i ./src/css/style.css -o ./_site/css/style.css --watch\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-img": "^6.0.4",
+    "@tailwindcss/typography": "^0.5.16",
+    "concurrently": "^9.1.2",
+    "tailwindcss": "^3.4.16"
+  }
+}
