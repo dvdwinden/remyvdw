@@ -34,6 +34,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addJavaScriptFunction("image", imageShortcode);
   
   return {
+    pathPrefix: process.env.ELEVENTY_ENV === "production" ? "/remyvdw/" : "/",
     dir: {
       input: "src",
       output: "_site",
