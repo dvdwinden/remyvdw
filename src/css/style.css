@@ -13,6 +13,19 @@
   line-height: 1.6;
   max-width: 540px;
   text-wrap: balance;
+  color: #111;
+}
+
+@media (prefers-color-scheme: dark) {
+  .prose {
+    color: #d4d4d4;
+  }
+  
+  .prose h1,
+  .prose h2,
+  .prose a {
+    color: #d4d4d4;
+  }
 }
 
 .prose h1 {
@@ -30,6 +43,8 @@
 
 .prose a {
   transition: opacity 0.2s ease;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 
 .prose a:hover {
