@@ -34,7 +34,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addJavaScriptFunction("image", imageShortcode);
   
   return {
-    pathPrefix: "/remyvdw/",
     dir: {
       input: "src",
       output: "_site",
