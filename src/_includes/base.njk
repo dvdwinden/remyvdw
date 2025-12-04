@@ -4,6 +4,24 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title or "Remy VDW" }}</title>
+  
+  {# Favicon #}
+  <link rel="icon" type="image/png" href="{{ '/favicon.png' | url }}">
+  
+  {# Social sharing meta tags #}
+  <meta property="og:title" content="{{ title or 'Remy van der Winden: Motion Designer' }}">
+  <meta property="og:description" content="Motion Designer from the Netherlands with over twelve years of design experience. Available for freelance projects.">
+  <meta property="og:image" content="{{ '/assets/share-image.jpeg' | url | absoluteUrl(metadata.url) }}">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title or 'Remy van der Winden: Motion Designer' }}">
+  <meta name="twitter:description" content="Motion Designer from the Netherlands with over twelve years of design experience. Available for freelance projects.">
+  <meta name="twitter:image" content="{{ '/assets/share-image.jpeg' | url | absoluteUrl(metadata.url) }}">
+  
+  {# Preload large GIF for better performance #}
+  <link rel="preload" as="image" href="{{ '/assets/carbo-culture.gif' | url }}">
+  <link rel="preload" as="image" href="{{ '/assets/liquid-gold.gif' | url }}">
+  
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body class="bg-[#eee] dark:bg-[#222] text-gray-900 dark:text-white flex items-center justify-center min-h-screen">

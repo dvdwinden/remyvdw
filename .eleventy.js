@@ -25,8 +25,10 @@ async function imageShortcode(src, alt, sizes = "100vw") {
 }
 
 module.exports = function (eleventyConfig) {
-  // Pass through assets
-  eleventyConfig.addPassthroughCopy("src/assets");
+  // Pass through assets excluding videos folder
+  eleventyConfig.addPassthroughCopy({"src/assets/*.{gif,png,jpg,jpeg,svg}": "assets"});
+  eleventyConfig.addPassthroughCopy({"src/assets/favicon.png": "favicon.png"});
+  eleventyConfig.ignores.add("src/assets/videos/**");
   
   // Add image shortcode
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
