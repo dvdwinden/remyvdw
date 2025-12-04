@@ -8,13 +8,17 @@
 }
 
 .prose {
-  font-family: 'Space Mono', monospace;
-  font-size: 15px;
-  font-weight: 400;
-  line-height: 1.75;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.65;
   max-width: 540px;
   text-wrap: pretty;
   color: #111;
+  font-optical-sizing: auto;
+  font-variation-settings:
+    "wdth" 100,
+    "opsz" 18;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,19 +29,19 @@
   .prose h1,
   .prose h2,
   .prose a {
-    color: #d4d4d4;
+    color: #fafafa;
   }
 }
 
 .prose h1 {
-  font-size: 20px;
-  font-weight: 700;
+  font-size: 22px;
+  font-weight: 500;
   margin-bottom: 0;
 }
 
 .prose h2 {
-  font-size: 20px;
-  font-weight: 700;
+  font-size: 22px;
+  font-weight: 500;
   margin-top: 0;
   margin-bottom: 3em;
   opacity: 0.5;
@@ -47,6 +51,11 @@
   transition: opacity 0.2s ease;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
+  font-weight: 300;
+}
+
+.prose strong {
+  font-weight: 500;
 }
 
 .prose a:hover {
