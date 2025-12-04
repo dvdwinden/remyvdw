@@ -25,12 +25,15 @@ async function imageShortcode(src, alt, sizes = "100vw") {
 }
 
 module.exports = function (eleventyConfig) {
-  // Pass through assets excluding videos and mp4 files
-  eleventyConfig.addPassthroughCopy({
-    "src/assets/*.{gif,png,jpg,jpeg,svg}": "assets",
-    "src/assets/favicon.png": "favicon.png",
-    "src/assets/share-image.jpeg": "assets"
-  });
+  // Pass through specific asset files (excluding videos and mp4s)
+  eleventyConfig.addPassthroughCopy("src/assets/*.gif");
+  eleventyConfig.addPassthroughCopy("src/assets/*.png");
+  eleventyConfig.addPassthroughCopy("src/assets/*.jpg");
+  eleventyConfig.addPassthroughCopy("src/assets/*.jpeg");
+  eleventyConfig.addPassthroughCopy("src/assets/*.svg");
+  
+  // Copy favicon to root
+  eleventyConfig.addPassthroughCopy({"src/assets/favicon.png": "favicon.png"});
   
   // Add absoluteUrl filter for social sharing
   eleventyConfig.addFilter("absoluteUrl", function(url, base) {

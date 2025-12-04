@@ -7,10 +7,14 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        mono: ['Space Mono', 'monospace'],
+      },
       typography: {
         DEFAULT: {
           css: {
             maxWidth: '65ch',
+            fontFamily: 'Space Mono, monospace',
             '--tw-prose-bold': '#111',
             'strong': {
               color: 'var(--tw-prose-bold)',
