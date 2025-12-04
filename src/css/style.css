@@ -50,3 +50,12 @@
 .prose a:hover {
   opacity: 0.6;
 }
+
+.prose figcaption {
+  text-align: left;
+}
+
+.prose img {
+  border-radius: 3px;
+  margin-bottom: 1em;
+}
