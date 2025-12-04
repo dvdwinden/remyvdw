@@ -11,6 +11,15 @@ module.exports = {
         DEFAULT: {
           css: {
             maxWidth: '65ch',
+            '--tw-prose-bold': '#111',
+            'strong': {
+              color: 'var(--tw-prose-bold)',
+            },
+          },
+        },
+        dark: {
+          css: {
+            '--tw-prose-bold': '#fff',
           },
         },
       },
