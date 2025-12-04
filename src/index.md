@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Remy van der Winden
+title: Remy van der Winden: Motion Designer
 ---
 
 # Remy van der Winden
