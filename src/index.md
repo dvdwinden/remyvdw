@@ -8,12 +8,11 @@ title: Remy van der Winden
 
 Hi! I'm Remy, a Motion Designer from the Netherlands.
 
-Twelve years ago, I started out as a Graphic Designer. I have experience designing brand identities, illustrations, icons, and websites. Now, I lead the Motion department at a design studio called [Noeste IJver](http://noesteijver.nl/ "Noeste IJver").
+Twelve years ago, I started out as a Graphic Designer. My experience ranges from designing brand identities and illustrations, to icons and websites. Currently I lead the Motion Design department at a design studio called [**Noeste IJver**](http://noesteijver.nl/ "Noeste IJver").
 
 As part of a small design team I've experienced every aspect of the design process, and created work for a variety of clients—many of them socially engaged.
 
-### Freelance projects
-Now and then I'm available for a freelance project, like **Google Meet** or **Google Chat**, where I collaborated with <a href="http://timokuilder.com?ref=remyvdw.nl" title="Timo Kuilder" rel="external" target="_blank">Timo Kuilder</a>.
+Now and then I'm available for a freelance project. Recently, I've contributed motion design work for **Google Meet** and **Google Chat**, collaborating with <a href="http://timokuilder.com?ref=remyvdw.nl" title="Timo Kuilder" rel="external" target="_blank">Timo Kuilder</a>.
 
 <figure>
   <img src="/assets/google-meet-light.gif" alt="Motion design for Google Meet" class="dark:hidden block" />
@@ -25,7 +24,7 @@ Now and then I'm available for a freelance project, like **Google Meet** or **Go
   <figcaption class="text-sm text-gray-600 dark:text-gray-400 mt-2">Motion design for Google Meet and Google Chat. Illustrations by Timo Kuilder.</figcaption>
 </figure>
 
-Or, in collaboration with design studio [Bakken & Bæck](http://bakkenbaeck.com?ref=remyvdw.nl "Bakken & Bæck"), for companies like [**Carbo Culture**](https://carboculture.com/?ref=remyvdw.nl "Carbo Culture"), [**Ramp**](https://ramp.com/?ref=remyvdw.nl "Ramp"), and **Spring**.
+I've often worked with design studio [Bakken & Bæck](http://bakkenbaeck.com?ref=remyvdw.nl "Bakken & Bæck"), delivering motion design for their own case studies, and companies like [**Carbo Culture**](https://carboculture.com/?ref=remyvdw.nl "Carbo Culture"), [**Ramp**](https://ramp.com/?ref=remyvdw.nl "Ramp"), and **Spring**.
 
 <figure>
   <img src="/assets/carbo-culture.gif" alt="Motion design for Carbo Culture" />
@@ -54,3 +53,7 @@ When at home, I watch, read, listen to and play many things. Currently I'm very 
 </figure>
 
 If you're interested in collaborating, feel free to [send me an email](mailto:r.vd.winden@gmail.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/remyvdw/ "My profile on LinkedIn"), [Bluesky](https://bsky.app/profile/rvdwinden.bsky.social "My profile on Bluesky") and [Instagram](http://instagram.com/rvdwinden "My profile on Instagram").
+
+<footer>
+  © Remy van der Winden, {{ page.date.getFullYear() }}
+</footer>

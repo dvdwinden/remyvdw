@@ -70,3 +70,9 @@
   border-radius: 3px;
   margin-bottom: 1em;
 }
+
+.prose footer {
+  margin-top: 10em;
+  font-size: .8em;
+  opacity: 0.5;
+}
