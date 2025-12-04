@@ -25,10 +25,12 @@ async function imageShortcode(src, alt, sizes = "100vw") {
 }
 
 module.exports = function (eleventyConfig) {
-  // Pass through assets excluding videos folder
-  eleventyConfig.addPassthroughCopy({"src/assets/*.{gif,png,jpg,jpeg,svg}": "assets"});
-  eleventyConfig.addPassthroughCopy({"src/assets/favicon.png": "favicon.png"});
-  eleventyConfig.ignores.add("src/assets/videos/**");
+  // Pass through assets excluding videos and mp4 files
+  eleventyConfig.addPassthroughCopy({
+    "src/assets/*.{gif,png,jpg,jpeg,svg}": "assets",
+    "src/assets/favicon.png": "favicon.png",
+    "src/assets/share-image.jpeg": "assets"
+  });
   
   // Add absoluteUrl filter for social sharing
   eleventyConfig.addFilter("absoluteUrl", function(url, base) {
@@ -45,7 +47,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addJavaScriptFunction("image", imageShortcode);
   
   return {
-    pathPrefix: process.env.ELEVENTY_ENV === "production" ? "/remyvdw/" : "/",
+    pathPrefix: "/",
     dir: {
       input: "src",
       output: "_site",
