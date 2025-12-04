@@ -12,8 +12,6 @@ Twelve years ago, I started out as a Graphic Designer. I have experience designi
 
 As part of a small design team I've experienced every aspect of the design process, and created work for a variety of clients—many of them socially engaged.
 
-As part of a small design team I've experienced every aspect of the design process, and created work for a variety of clients—many of them socially engaged.
-
 <figure class="not-prose">
   <img src="/assets/google-meet-light.gif" alt="Google Meet interface" class="dark:hidden block" />
   <img src="/assets/google-meet-dark.gif" alt="Google Meet interface" class="hidden dark:block" />
