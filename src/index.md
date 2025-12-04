@@ -12,6 +12,9 @@ Twelve years ago, I started out as a Graphic Designer. I have experience designi
 
 As part of a small design team I've experienced every aspect of the design process, and created work for a variety of clients—many of them socially engaged.
 
+### Freelance projects
+Now and then I'm available for a freelance project, like **Google Meet** or **Google Chat**, where I collaborated with <a href="http://timokuilder.com?ref=remyvdw.nl" title="Timo Kuilder" rel="external" target="_blank">Timo Kuilder</a>.
+
 <figure>
   <img src="/assets/google-meet-light.gif" alt="Motion design for Google Meet" class="dark:hidden block" />
   <img src="/assets/google-meet-dark.gif" alt="Motion design for Google Meet" class="hidden dark:block" />
@@ -19,13 +22,35 @@ As part of a small design team I've experienced every aspect of the design proce
   <img src="/assets/google-chat-light.gif" alt="Motion design for Google Chat" class="dark:hidden block" />
   <img src="/assets/google-chat-dark.gif" alt="Motion design for Google Chat" class="hidden dark:block" />
   
-  <figcaption class="text-sm text-gray-600 dark:text-gray-400 mt-2">Motion design for Google Meet and Google Chat. Illustrations by <a href="http://timokuilder.com?ref=remyvdw.nl" title="Timo Kuilder" rel="external" target="_blank">Timo Kuilder</a>.</figcaption>
+  <figcaption class="text-sm text-gray-600 dark:text-gray-400 mt-2">Motion design for Google Meet and Google Chat. Illustrations by Timo Kuilder.</figcaption>
 </figure>
 
-When at home, I watch, read, listen to and play many things. Currently I'm very much living up to my 30s by taking pictures of birds and baking my own bread.
+Or, in collaboration with design studio [Bakken & Bæck](http://bakkenbaeck.com?ref=remyvdw.nl "Bakken & Bæck"), for companies like [**Carbo Culture**](https://carboculture.com/?ref=remyvdw.nl "Carbo Culture"), [**Ramp**](https://ramp.com/?ref=remyvdw.nl "Ramp"), and **Spring**.
 
 <figure>
   <img src="/assets/carbo-culture.gif" alt="Motion design for Carbo Culture" />
   <img src="/assets/carbo-culture-overview.gif" alt="Motion design for Carbo Culture" />
-  <figcaption class="text-sm text-gray-600 dark:text-gray-400 mt-2">Motion design for Carbo Culture, commissioned by <a href="http://bakkenbaeck.com?ref=remyvdw.nl" title="Bakken & Bæck" rel="external" target="_blank">Bakken & Bæck</a>.</figcaption>
+  <figcaption class="text-sm text-gray-600 dark:text-gray-400 mt-2">Motion design for Carbo Culture, commissioned by Bakken & Bæck.</figcaption>
 </figure>
+
+<figure>
+  <img src="/assets/ramp.gif" alt="Motion design for Ramp" />
+  <figcaption class="text-sm text-gray-600 dark:text-gray-400 mt-2">Motion design for Ramp, commissioned by Bakken & Bæck.</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/spring-fundraising.gif" alt="Motion design for Spring" />
+  <img src="/assets/spring-back-office.gif" alt="Motion design for Spring" />
+  <figcaption class="text-sm text-gray-600 dark:text-gray-400 mt-2">Motion design for Spring, commissioned by Bakken & Bæck.</figcaption>
+</figure>
+
+
+When at home, I watch, read, listen to and play many things. Currently I'm very much living up to my 30s by taking pictures of birds and baking my own bread. And, I like to keep chipping away at my personal illustration and motion design work, too.
+
+<figure>
+  <img src="/assets/flip.gif" alt="Flip!" />
+  <img src="/assets/liquid-gold.gif" alt="Liquid gold" />
+  <figcaption class="text-sm text-gray-600 dark:text-gray-400 mt-2">Personal illustration and motion design work.</figcaption>
+</figure>
+
+If you're interested in collaborating, feel free to [send me an email](mailto:r.vd.winden@gmail.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/remyvdw/ "My profile on LinkedIn"), [Bluesky](https://bsky.app/profile/rvdwinden.bsky.social "My profile on Bluesky") and [Instagram](http://instagram.com/rvdwinden "My profile on Instagram").
