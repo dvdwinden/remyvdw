@@ -30,6 +30,15 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({"src/assets/favicon.png": "favicon.png"});
   eleventyConfig.ignores.add("src/assets/videos/**");
   
+  // Add absoluteUrl filter for social sharing
+  eleventyConfig.addFilter("absoluteUrl", function(url, base) {
+    try {
+      return new URL(url, base).toString();
+    } catch(e) {
+      return url;
+    }
+  });
+  
   // Add image shortcode
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
   eleventyConfig.addLiquidShortcode("image", imageShortcode);
