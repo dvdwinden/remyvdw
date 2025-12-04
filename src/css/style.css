@@ -19,17 +19,24 @@
   font-variation-settings:
     "wdth" 100,
     "opsz" 18;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 @media (prefers-color-scheme: dark) {
   .prose {
     color: #d4d4d4;
+    letter-spacing: 0.01em;
   }
   
   .prose h1,
   .prose h2,
   .prose a {
     color: #fafafa;
+  }
+  
+  .prose a {
+    text-decoration-color: rgba(250, 250, 250, 0.3);
   }
 }
 
@@ -49,6 +56,7 @@
 
 .prose a {
   transition: opacity 0.2s ease;
+  text-decoration-color: rgba(0, 0, 0, 0.3);
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
   font-weight: 300;
