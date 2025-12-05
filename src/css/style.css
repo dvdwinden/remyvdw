@@ -17,7 +17,6 @@ body {
   font-weight: 300;
   line-height: 1.65;
   max-width: 540px;
-  min-width: 540px;
   margin-top: 10em;
   text-wrap: pretty;
   color: #111;
@@ -28,6 +27,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-variant-numeric: lining-nums tabular-nums;
+}
+
+@media (min-width: 768px) {
+  .prose {
+    min-width: 540px;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
