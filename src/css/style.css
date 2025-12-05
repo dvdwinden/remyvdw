@@ -7,12 +7,18 @@
   color: #fff;
 }
 
+body {
+  overflow-y: scroll;
+}
+
 .prose {
   font-family: 'IBM Plex Sans', sans-serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.65;
   max-width: 540px;
+  min-width: 40ch;
+  margin-top: 10em;
   text-wrap: pretty;
   color: #111;
   font-optical-sizing: auto;
