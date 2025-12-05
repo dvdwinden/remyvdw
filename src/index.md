@@ -44,7 +44,7 @@ I've often worked with design studio [Bakken & Bæck](http://bakkenbaeck.com?ref
 </figure>
 
 
-When at home, I watch, read, listen to and play many things. Currently I'm very much living up to my 30s by taking pictures of birds and baking my own bread. And, I like to keep chipping away at my personal illustration and motion design work, too.
+When at home, I watch, read, listen to and play many things. Currently, I'm very much living up to my 30s by taking pictures of birds and baking my own bread. And, I like to keep chipping away at my personal illustration and motion design work, too.
 
 <figure>
   <img src="{{ '/assets/flip.gif' | url }}" alt="Flip!" />
