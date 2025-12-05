@@ -35,6 +35,10 @@ module.exports = function (eleventyConfig) {
   // Copy favicon to root
   eleventyConfig.addPassthroughCopy({"src/assets/favicon.png": "favicon.png"});
   
+  // Copy GitHub Pages configuration files
+  eleventyConfig.addPassthroughCopy("CNAME");
+  eleventyConfig.addPassthroughCopy(".nojekyll");
+  
   // Add absoluteUrl filter for social sharing
   eleventyConfig.addFilter("absoluteUrl", function(url, base) {
     try {
