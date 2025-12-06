@@ -54,6 +54,11 @@ When at home, I watch, read, listen to and play many things. Currently, I'm very
 
 If you're interested in collaborating, feel free to [send me an email](mailto:r.vd.winden@gmail.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/remyvdw/ "My profile on LinkedIn"), [Bluesky](https://bsky.app/profile/rvdwinden.bsky.social "My profile on Bluesky") and [Instagram](http://instagram.com/rvdwinden "My profile on Instagram").
 
+<figure>
+  <img src="{{ '/assets/bye-light.gif' | url }}" alt="Bye!" class="dark:hidden block" />
+  <img src="{{ '/assets/bye-dark.gif' | url }}" alt="Bye!" class="hidden dark:block" />
+</figure>
+
 <footer>
   © Remy van der Winden, {{ page.date.getFullYear() }}
 </footer>
