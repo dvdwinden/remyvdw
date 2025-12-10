@@ -24,7 +24,7 @@ Now and then I'm available for a freelance project. Recently, I've contributed m
   <figcaption class="text-sm text-gray-600 dark:text-gray-400 mt-2">Motion design for Google Meet and Google Chat. Illustrations by Timo Kuilder.</figcaption>
 </figure>
 
-I've often worked with design studio [Bakken & Bæck](http://bakkenbaeck.com?ref=remyvdw.nl "Bakken & Bæck"), delivering motion design for their own case studies, and companies like [**Carbo Culture**](https://carboculture.com/?ref=remyvdw.nl "Carbo Culture"), [**Ramp**](https://ramp.com/?ref=remyvdw.nl "Ramp"), and **Spring**.
+I've often worked with design studio [Bakken & Bæck](http://bakkenbaeck.com?ref=remyvdw.nl "Bakken & Bæck"), delivering motion design for their own case studies, and companies like [**Carbo Culture**](https://carboculture.com/?ref=remyvdw.nl "Carbo Culture"), [**Ramp**](https://ramp.com/?ref=remyvdw.nl "Ramp"), and [**Spring**](https://infra.spring.net/products/token-distributions/?ref=remyvdw.nl "Spring").
 
 <figure>
   <img src="{{ '/assets/carbo-culture.gif' | url }}" alt="Motion design for Carbo Culture" />
