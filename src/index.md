@@ -8,7 +8,7 @@ title: "Remy van der Winden: Motion Designer"
 
 Hi! I'm Remy, a Motion Designer from the Netherlands.
 
-Twelve years ago, I started out as a Graphic Designer. My experience ranges from designing brand identities and illustrations, to icons and websites. Currently I lead the Motion Design department at a Dutch design studio called [**Noeste IJver**](http://noesteijver.nl/ "Noeste IJver").
+Ten years ago, I started out as a Graphic Designer. My experience ranges from designing brand identities and illustrations, to icons and websites. Currently I lead the Motion Design department at a Dutch design studio called [**Noeste IJver**](http://noesteijver.nl/ "Noeste IJver").
 
 As part of a small design team I've experienced every aspect of the design process, and created work for a variety of clients—many of them socially engaged.
 
