@@ -10,9 +10,9 @@ Hi! I’m Remy, a Motion Designer from the Netherlands.
 
 Ten years ago, I started out as a Graphic Designer. My experience ranges from designing brand identities and illustrations, to icons and websites. As part of a small design team I've experienced every aspect of the design process, and created work for a variety of clients—many of them socially engaged.
 
-After leading the motion design department at a Dutch design studio called [**Noeste IJver**](https://noesteijver.nl/ "Noeste IJver"), I'm now available for freelance and contract motion design work, but am also open to permanent roles.
+After leading the motion design department at Dutch design studio [Noeste IJver](https://noesteijver.nl/?ref=remyvdw.nl "Noeste IJver"), I’m now collaborating with [Fictive Kin](https://fictivekin.com/?ref=remyvdw.nl "Fictive Kin"). If you’d like to discuss motion design work, on a contract or permanent basis, feel free to [reach out](mailto:r.vd.winden@gmail.com).
 
-Recently, I’ve contributed motion design work for **Google Meet** and **Google Chat**, collaborating with <a href="https://timokuilder.com?ref=remyvdw.nl" title="Timo Kuilder" rel="external" target="_blank">Timo Kuilder</a>.
+Recently, I’ve contributed motion design work for **Google Meet** and **Google Chat**, collaborating with [Timo Kuilder](https://timokuilder.com?ref=remyvdw.nl "Timo Kuilder").
 
 <figure>
   <img src="{{ '/assets/google-meet-light.gif' | url }}" alt="Motion design for Google Meet" class="dark:hidden block" />
